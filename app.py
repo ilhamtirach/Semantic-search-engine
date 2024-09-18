@@ -39,7 +39,7 @@ bi_encoder_email = SentenceTransformer('avsolatorio/GIST-Embedding-v0')
 cross_encoder_email = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-12-v2')
 
 # Initialisation ChromaDB pour la recherche d'emails
-client = chromadb.PersistentClient(path=r"C:\embedddings_satage")
+client = chromadb.PersistentClient(path="data_embeddings")
 collection_BERT = client.get_collection(name="ENRON_GIST")
 
 
