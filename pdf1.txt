@@ -1,0 +1,162 @@
+﻿210
+BULLETIN OFFICIEL
+N° 5914 - 29 safar 1432 (3-2-2011),
+AVIS ET COMMUNICATIONS
+Décision ANRT/DG/no07-10 du 4 kaada 1431 (13 octobre 2010) fixant les conditions techniques d’utilisation des installations radioélectriques composées d’appareils de faible puissance et de faible portée.
+Le directeur general de l’Agence nationale de REGLEMENTATION DES TELECOMMUNICATIONS,
+'	Vu la loi n° 24-96 relative à la poste et aux télécommunications, promulguée par le dahir n° 1-97-162 du 2 rabii U 1418 (7 août 1997), telle qu’elle a été modifiée et complétée et notamment ses articles 6 et 19 ;
+Vu le décret na 2-97-813 du 27 chaoual 1418 (25 février 1998) portant application des dispositions de la loi n° 24-96, en ce qui concerne l’Agence nationale de réglementation des télécommunications ;
+Vu la decision du Premier ministre ii° 27-00 du 1er mars 2000 relative aux modalités de gestion et de surveillance du spectre des fréquences radioélectriques ;
+;	■ Vu la décision du Premier ministre n° 006-04 du 6 juillet 200'1 portant adoption du plan national des fréquences ;
+Vu la décision ANRÏ/DG/n° 12-04 du 29 décembre 2004 Uxâm Je régime d’agrément .des équipements terminaux et des installations radioélectriques, telle qu’elle a été complétée par la décision ANRT/DG/n° 06/06 du 28 juillet 2006 ;
+Vu la décision ANRT/DG/n° 11-02 du 17 juillet 2002 relative aux conditions de délivrance des autorisations d'établissement et d'exploitation des réseaux indépendants ;	-
+Vu la décision ANRT/DG/n013-08 du 5 chaabane 1429 (7 août 2008) fixant les conditions techniques d’utilisation des installations radioélectriques composées d’appareils de faible puissance et de faible portée, telle qu’elle a été modifiée et complétée par la décision ANRT/DG/n0 16/08 du 2 hija 1429 (1er décembre 20081 et la décision ANRT/DG/n° 04/09 du 29 joumada I 1430 (25 mai 2009),
+DÉCIDE :
+Titre premier Terminologie
+Article premier, - Au sens de la présente décision, on emend par :
+-	Appareils de faible puissance et de faible portée : des appareils constitués d’émetteurs et/ou de récepteurs radioélectriques de faible puissance, permettant des communications directionnelles ou bidirectionnelles et destinés à des utilisations en vue de transmission de portée limitée, désignés ci-après A2FP ;
+-	Réseau local radioélectrique (RLAN : Radio local area network) : ensemble d’installations radioélectriques composant un réseau utilisé pour la transmission par voie hertzienne, établies et exploitées à l’intérieur d’un même bâtiment ;
+-	Ail\RT : l’Agence nationale de réglementation des télécommunications, instituée par la loi n° 24-96 susvisée.
+Art. 2.-La présente décision a pour objet de fixer les conditions techniques d’exploitation et d’utilisation libre des A2FP et des réseaux locaux radioélectriques.
+ART. 3.-Ne sont pas concernées par la présente décision les installations de télécommunications visées à l’article 21 de la loi n° 24-96 susvisée.
+Titre II
+Du régime des installations exploitées librement
+Art. 4. - Sont établis et/ou exploités librement les installations radioélectriques de type A2FP et les réseaux locaux radioélectriques, respectant les spécifications techniques figurant dans le tableau de l’annexe Ide la présente décision.
+Les installations régies par la présente décision sont réservées à une utilisation en vue de transmissions, non essentiellement vocales, à courte portée.
+Art. 5. - Les A2FP et les réseaux locaux radioélectriques établis et/ou exploités librement, ne doivent :
+•	causer aucun brouillage aux installations radioélectriques dûment autorisées par l’ANRT ;
+•	demander aucune protection contre des brouillages préjudiciables causés par toute autre installation.
+ART. 6. - Les A2FP et les réseaux locaux radioélectriques exploités librement, ne doivent en aucun cas :
+•	émettre à des puissances supérieures à celles figurant dans le tableau objet de l’annexe 1 de la présente décision ;
+•	être exploités avec des fréquences bu dans des lieux non autorisés par la présente décision ;	‘
+•	être utilisés avec des spécifications différentes de celles figurant dans le tableau de l’annexe 1 de la présente
+, décision ;
+•	utiliser des appareils destinés à l’amplification de la puissance ;
+•	être connectés à des RLAN ou être en communication avec d’autres A2FP appartenant à des entités juridiques différentes ou non juridiquement liées.
+Toute exploitation non conforme des installations A2FP ou de réseaux locaux radioélectriques doit cesser, sans délai, sur demande de l’ANRT.
+Art. 7. - En cas de brouillage entre deux ou plusieurs utilisateurs exploitant librement des installations radioélectriques de type A2FP ou des réseaux locaux radioélectriques régis par la présente décision, ces utilisateurs collaborent pour trouver une solution à ce brouillage.
+Ils informent l’ANRT des mesures convenues pour la résolution du brouillage.
+L’ANRT dispose d’un délai d’un mois à compter de la date de dépôt des mesures convenues, attestée par un accusé de réception, pour émettre son avis sur leurs mises en œuvre.
+ART. 8. - Toute installation de type A2FP ou composant un réseau local radioélectrique doit être soumise à un agrément préalable en vertu des articles 15 et 16 de la loi n° 24-96 susvisée.
+N° 5914 - 29 safar 1432 (3-2-2011 )
+BULLETIN OFFICIEL
+211
+Art. 9. - L’exploitation d’installations de type A2FP ou des réseaux locaux radioélectriques dans des conditions autres que celles prévues par la présente décision est interdite sauf accord préalable de l’ANRT.
+ART. 10. - Les installations de type A2FP ou composant des réseaux locaux radioélectriques n'ont pas vocation à être raccordées directement à un réseau public de télécommunications.
+Toutefois, la connexion directe à un réseau public de télécommunications pourra se faire par l’intermédiaire d'un équipement terminal agréé par l’ANRT.
+ART. 11,- L’ANRT peut révoquer, à tout moment et sans que cela ouvre droit à dédommagement, l'utilisation libre des installations définies par la présente décision, notamment pour les raisons suivantes :
+•	non respect des limites et conditions citées dans l’annexe 1 de la présente décision ;
+•	perturbation du fonctionnement technique des réseaux autorisés ;
+•	exigences de sécurité publique ;
+•	adoption d'un nouveau plan d'allocation et d'attribution de fréquences ou modification dudit plan.
+Titre III
+De la commercialisation des installations de type A2FP ou composant des ULAN
+ART. 12.-Les personnes physiques ou morales qui souhaitent commercialiser des installations de type A2FP et/ou RLAN doivent déposer au préalable, contre accusé de réception, une demande auprès de l’ANRT, accompagnée d’un engagement dûment rempli conformément au modèle de l’annexe 2 de la présente décision.
+Tout refus de l’ANRT d’autoriser ladite commercialisation doit être motivé et notifié au demandeur dans un délai n’excédant pas un mois à compter de la date de dépôt de la demande.
+Art. 13. - Les revendeurs doivent tenir à jour un registre concernant chacun de leur client comportant notamment les informations suivantes :
+•	nom et prénom ou raison sociale ;
+•	n° CIN ; et
+•	marque et type de l’équipement.
+A tout moment, ce registre peut être consulté par les agents mandatés par l’ANRT.
+Art. 14.-Les revendeurs des installations régies par la présente décision doivent informer leurs clients des conditions réglementaires pour une utilisation libre des installations de type A2FP et/ou RLAN et mettre à leur disposition une copie de la présente décision.
+Titre IV
+Du contrôle
+Art. 15.-L’ANRT peut procéder, à tout moment, aux contrôles des différentes installations radioélectriques exploitées librement et à la vérification de leurs conformités aux conditions prévues par la présente décision.
+ART. 16.-Les infractions commises en violation des dispositions de la présente décision sont passibles des sanctions prévues par l’article 83 de la loi n° 24-96 susvisée.
+Art. 17.-La présente décision abroge et remplace la décision ANRT/DG/110 13/08 du 7 août 2008 susvisée, telle qu’elle a été modifiée et complétée.
+Art. 18.-Le directeur technique et le directeur responsable de la mission de la réglementation sont chargés, chacun en ce qui le concerne, de l'exécution de la présente décision qui sera publiée au Bulletin officiel.
+Le directeur général
+de l’Agence nationale de réglementation des télécommunications,
+Azdine El Mountassir Billah.
+*
+* *
+ANNEXE 1 : SPECIFICATIONS TECHNIQUES DES INSTALLATIONS Â2FP OU RLAN
+Bande dêTréquencést Câhaufc	Puissance/NiyeaU de . çhamp magnétiquk. . • maximal	Largeur xie " Bande<K&);	,f'j'	,-Ç'	' ''
+9 - 59,75 KHz	72 dBpA/m à 10m	—	Cette bande est destinée à l’exploitation par des matériels à boucle d’induction {applications inductives2).La portée ne devra pas excéder 10 mètres.
+59,75 - 60,25 KHz	42 dBpA/m à 10m		
+60,25-70 KHz	69 dBpA/m à 10m	—	
+70-135 KHz	72 dBpA/m à 10m		La portée ne devra pas excéder 10 mètres. Cette bande devra être utilisée pour la transmission de signaux de téiémétrie, de télécommande, des alarmes et de données. Elle ne doit en aucun cas permettre la transmission de la voix.
+135-140 KHz	42 dBpA/m à 10m		Cette bande est destinée à l’exploitation par des matériels à boucie d’induction (applications inductives2).La portée ne devra pas excéder 10 mètres.
+9-315 KHz	30dB,uA/m à 10m	—	Cette bande est destinée-à l'exploitation par des implants médicaux (partie radio des dispositifs médicaux implantables actifs) à faible puissance. La portée ne devra pas excéder 10 mètres.
+7400 - 8800 KHz	9dBjWm à 10m	—	Cette bande est destinée à (‘exploitation par des matériels à boucle d’induction (applications inductives2). La portée ne devra pas excéder 10 mètres.
+10,2-11 MHz	9 dBpA/m à 10 m	—_	Cette bande est destinée à l’exploitation par des matériels à boucle (applications inductives2), notamment les systèmes d’aides à l’audition3.
+13,553-13,567 MHz	42 dBpA/m à 10m		La portée ne devra pas excéder 10 mètres. Cette bande devra être utilisée pour la transmission de signaux de téiémétrie, de télécommande, des alarmes et de données. Elle ne doit en aucun cas permettre la transmission de la voix.
+' : Les installations radioélectriques objet de cette annexe devraient être dotées de systèmes d’antennes intégrées.
+2 : Cette catégorie regroupe, par exemple, les systèmes d'immobilisation de véhicules, d'identification des animaux, d’alarme, de détection de câbles, de gestion des déchets, d'identification des personnes, de transmission vocale sans fil, de contrôle d’accès, les capteurs de proximité, les systèmes antivol, y compris les systèmes antivol RF à induction, les systèmes de transfert de données vers des dispositifs portables, d’identification automatique d'articles, de commande sans fil et de péage routier automatique.
+: Un système de radiocommunication comprenant habituellement un ou plusieurs émetteurs et un ou plusieurs récepteurs de radiocommunication et permettant aux personnes souffrant d’un handicap auditif d'accroître leur capacité auditive.
+BULLETIN OFFICIEL	N° 5914 - 29 safar 1432 (3-2-2011)
+" Bandède fréquences! - ■ - Canaüx de Fréquences	Puissancè/Mweau de : champ magnétique ~ maximal	' Largéyrdè Bandé (KHz)	* i “	'	Conditions padiciiJières.
+27,105-27,283 MHz	10 mW p.a.r.	—	Les installations radioélectriques de tv^; postes CB (Citizen Band) ne sont pas concernées par la présente décision.
+26,957-27,283 MHz4	42 dBpA/m à 10m	—	Cette bande est destinée à l'exploitation par des matériels à boucle d’induction (applications inductives2).
+26,995 MHz3	100 mW p.a.r.	10	Ces canaux de fréquences sont destinés à l’exploitation par des installations de radiocommunications de loisir de type radiocommandes de modèles réduits (applications d’aéromodélisme).
+27,045 MHz3			
+27,145 MHz3			
+27,195 MHz3			
+26,3125-26,4875 MHz 41,3125-41,4875 MHz	10 mW p.a.r.	12,5	Cette bande est destinée à l’exploitation par des postes téléphoniques de type «cordless». Le raccordement aux réseaux publics de télécommunications est autorisé pour ce type d’équipements.
+40,660-40,700 MHz	100 mW p.a.r.		Cette bande est destinée, entre autres, à l'exploitation par des installations de radiocommunications de loisir de type radiocommandes de modèles réduits (avec une largeur de 10 KHz pour les applications d’aéromodélisme).
+46,630-46,830 MHz 49,725-49,890 MHz	10 mW p.a.r.	“—	Cette bande est destinée à l’exploitation par des postes téléphoniques de type «cordless». Le raccordement aux réseaux publics de télécommunications est autorisé pour ce type d’équipements.
+87,5-108 MHz	50 nW p.a.r.	200	Cette bande est destinée pour les applications audio sans fil. L’interface utilisateur de l’appareil doit permettre comme un minimum la sélection de toutes les fréquences possibles dans la bande 88,1 MHz à 107,9 MHz et comme un maximum 87,6 MHz à 107,9 MHz. En l’absence de signaux audio, l’appareil doit employer la fonction d’interruption de signal. L’émission d'un signal pilote pour assurer la continuité de la transmission est également interdite.
+169,4-169,475 MHz	500 mW p.a.r.	12,5	Cette bande est destinée à l’exploitation par des systèmes de relevé de compteurs et des dispositifs de localisation et de poursuite.
+169,4-169,6 MHz	500 mW p.a.r.	Jusqu’à 50	Cette bande est destinée à l’exploitation par des matériels à boucle (applications inductives2), notamment les systèmes d’aides à l’audition3.
+4Les installations radioélectriques de type postes CB (Citizen Band) ne sont pas concernées par la présente décision.
+5914-29 safar 1432 (3-2-2011)_ BULLETIN OFFICIEL	213
+; .Betide 4e fréqüënceSF Canaux de Frequences	PmssaniæiNM ■ ; i thamp magnétique -. maximal	' Margeurçië Bande (KHz)	/ ‘	ConditionspaTtÆùnères . _	..h	. /
+174-230 MHz	50 mW p.a.r.	200	Cette bande est destinée exclusivement à l’exploitation par des microphones sans fil dans le cadre des applications auxiliaires à la radiodiffusion.
+402 - 405 MHz	25jiW p.a.r.	25	Cette bande est destinée à l’exploitation par des implants médicaux (partie radio des dispositifs médicaux implantables actifs) à faible puissance. La portée ne devra pas excéder 10 mètres.
+433,050 - 433,650 MHz	10 mW p.a.r.	12,5 ou 25	—
+433,850 - 434,790 MHz			
+446 - 446,1 MHz	500 mW p.a.r.	12,5	Cette bande est destinée à l’exploitation par des installations radioélectriques avec des antennes intégrées.
+470-790 MHz	50 mW 4.a.r.	200	Cette bande est destinée exclusivement à l’exploitation par des microphones sans fil dans le cadre des applications auxiliaires à la radiodiffusion.
+867,6 - 868 MHz	500 mW p.a.r.	200	Cette bande est destinée à l’exploitation par des matériels d’identification par radio fréquences (RFID).
+868 - 869 MHz	25 mW p.a.r.	—	Cette bande est destinée à l’exploitation par différents types d'applications sans fil, notamment de télécommande et télé-contrôle, télémesure, transmission d’alarmes et de données.
+868,6-868,7 MHz	10 mW p.a.r.	25 kHz6	Cette bande est destinée à l’exploitation par des alarmes sans fil.
+1880-1900 MHz6	100 mW	1728	Cette bande est destinée à l’exploitation dans les villes et localités autres que celles citées en annexe 3 de la présente décision, par des installations radioélectriques conformes à la technologie DECT, pour des applications vocales et de transmission de données. Le raccordement aux réseaux publics de télécommunications est autorisé pour ce type d’équipements. La portée ne devra pas excéder 1 Km pour ce type dlnstallations.
+5	: ou toute la bande pour un canal de transmission de données haut débit.
+6	- Les porteuses autorisées dans la bande 1880-1890 MHz sont 1881,792 MHz ; 1883,520 MHz ; 1885,248 MH^ , 1886,976 MHz ; 1888,704 MHz ; 1890 432 MHz -1892 160 MHz ' 1893,888 MHz ; 1895,616 MHz et 1897,344 MHz.
+214	BULLETIN OFFICIEL	N°5914-
+O
+' Baridedè fréquences/ Canaux'de Fréquences	. Pufssance/Niveaude ~ ■ champ magnétique	- LargjeujrÎle Bande(RHz)	3- ’ ,	-	: ‘	\. Conditions particulières	- . -	-
+2400 - 2420 MHz	100 mW p.i.r.e		Le déploiement de RU\N est autorisé au niveau national (à l'exception de Goulmima et de Moulay Bouazza (région de Khénifra)) dans cette bande pour un usage indoor et avec une puissance isotrope rayonnée équivalente pouvant atteindre 100 mW. Pour les localités de Goulmima et de Moulay Bouazza (région de Khénifra), la p.i.r.e autorisée est limitée à 10 mW.
+2420-2483,5 MHz	100 mW p.i.r.e		Le déploiement de RLAN est autorisé au niveau national8 (à l’exception de la région du Grand Casablanca) dans cette bande pour un usage indoor et avec une puissance isotrope rayonnée équivalente pouvant atteindre 100 mW. Pour la région du Grand Casablanca, la p.i.r.e autorisée est limitée à 10 mW.
+5150-5250 MHz	200 mW p.i.r.e	—	Cette bande est destinée pour les applications de type RLAN.
+5250 - 5350 MHz	200 mW p.i.r.e		Cette bande est destinée pour les applications de type RLAN. L’utilisation des techniques d’atténuation (DFS : Dynamic Frequency Selection) et des techniques de régulation de la puissance de l’émetteur (TPC : Transmitter Power Control) sont obligatoires. Cette bande est destinée pour le déploiement, pour un usage exclusivement indoor, des applications de type RLAN, à l’exclusion des aéronefs.
+24,05 - 24,25 GHz	100 mW p.i.r.e	■ —	Cette bande est destinée pour les radars de détection de mouvement7.
+63 - 64 GHz	40 dBm p.i.r.e	—	Cette bande est destinée pour les systèmes d’information routière.
+76-77 GHz	55 dBm p.i.r.e		Cette bande est destinée pour les systèmes d’information routière et les radars à courte portée destinés aux véh i cul es.
+p.a.r. : puissance apparente rayonnée .	p.i.r.e : puissance isotrope rayonnée équivalente.
+Cette annexe est régulièrement mise à jour par l’ANRT.
+7 ; Il s'agit des appareils de contmis de la vitesse des véhicules et engins roulants.
+• N° 5914-29 safar 1432(3-2-2011)	BULLETIN OFFICIEL	-215
+216
+BULLETIN OFFICIEL
+N° 5914-29 safar 1432 (3-2-2011)
+ANNEXE 2 :
+ENGAGEMENT POUR LA COMMERCIALISATION DES INSTALLATIONS DE TYPE A2FP OU COMPOSANT UN RESEAU LOCAL RADIOELECTRIQUE (à fournir en double exemplaires) o !
+Je soussigné, Monsieur..........................................
+(Prénoms, Nom), agissant en qualité de..........................
+eq vertu des pouvoirs qui me sont conférés au nom et pour le compte de
+.........................................................................................»
+faisant élection à domicile à............................................................
+DECLARE :
+procéder à ia commercialisation des installations de type A2FP ou composant un réseau local radioélectrique, conformément à la décision ANRT/DG/N°07/10 du 13 octobre 2010 ;
+et M’ENGAGE A :
+1.	Respecter la réglementation en vigueur ;
+2.	Ne programmer que les fréquences et puissances prévues par la décision ANRT/DG/N°07/10 du 13 octobre 2010 ;
+3.	Respecter les conditions d’utilisation et d’exploitation des installations telles que prévues par la décision ANRT/DG/N°07/10 du 13 octobre 2010 ;
+4.	Informer l’ANRT de tout usage non conforme aux dispositions de la décision ANRT/DG/N°07/10 du 13 octobre 2010 ;
+5.	Ne commercialiser que les modèles conformes au prototype agréé ;
+6.	Procéder à toute reprogrammation ou adaptation ou modification rendue nécessaire à la suite du changement de la réglementation ou suite à la demande de l’ANRT ;
+7.	Tenir à jour un registre comportant les informations demandées par la décision ANRTZDG/N°07/10 du 13 octobre 2010.
+Toute infraction à ces dispositions expose mon organisme aux sanctions d’usages prévues par la réglementation en vigueur.
+Fait à............le.........
+(Signature et cachet)
+N° 5914 - 29 safar 1432 (3-2-2011)
+BULLETIN OFFICIEL
+217
+ANNEXE 3 : LISTE DES VILLES ET LOCALITES DANS LESQUELLES L’EXPLOITATION LIBRE DE LA BANDE 1880 -1900 MHz N’EST PAS AUTORISÉE
+Porteuses non autorisées	Ville ou localité
+1895,616 MHz 1897,344 MHz	Agadir Al-Hoceima Ait Melloul (région d’Agadir) Biougra (région dAgadir) Kelaat Sraghna Guercif Kénitra Ksar El Kébir Marrakech Ouezzane Sidi Kacem Taourirt Tiflet
+1885,248 MHz 1886,976 MHz 1888,704 MHz 1890,432 MHz 1892,160 MHz 1893,888 MHz	Farcia	= Ifrane Mahbès Sidi Allai Bahraoui Settat
+1885,248 MHz 1886,976 MHz 1888,704 MHz 1890,432 MHz 1892,160 MHz 1893,888 MHz 1895,616 MHz 1897,344 MHz	Skhour Rhamna .	Zerhoun
+Cette annexe est régulièrement mise à jour par l’ANRT.
+Le texte en langue arabe a été publié dans l’édition générale du « Bulletin officiel » n° 5913 du 26 safar 1432 (31 janvier 2011).
